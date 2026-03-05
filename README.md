@@ -68,6 +68,10 @@ python "UPSC InsightX.py"
 - Database integration (MySQL/PostgreSQL)
 - Cloud deployment
 
+## 📸 Project Screenshot
+
+![Project Screenshot](assets/screenshot.png)
+
 ---
 
 ## 👩‍💻 Developed By
