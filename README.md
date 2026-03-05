@@ -70,9 +70,7 @@ python "UPSC InsightX.py"
 
 ## 📸 Project Screenshot
 
-![Project Screenshot](assets/screenshot.png)
-
----
+![UPSC InsightX Output](upsc_insightx_terminal.png)
 
 ## 👩‍💻 Developed By
 
